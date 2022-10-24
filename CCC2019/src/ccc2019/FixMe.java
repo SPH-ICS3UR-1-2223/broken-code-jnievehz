@@ -13,9 +13,9 @@ scanner in = new Scanner(System.in);
      in.nextLine();
      									string output="";
         //Loop through the lines
-     										for (int i == 0, i < lines, i+) {
+     										for (int i == 0, i < lines, i+) }
             //Read in a string
- String input = in.nextline();
+ {String input = in.nextline();
             //Loop through the characters
  
  char currentChar='a'
@@ -25,7 +25,7 @@ scanner in = new Scanner(System.in);
        //if this is the first pass through the loop
  			if (j=0){
                     //current char is the char at j
- 										currentChar = input.charAt(j);
+ 	  currentChar = input.charAt(j);
                     //current count = 1
       currentCount=2;
  											}
