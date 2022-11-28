@@ -4,7 +4,7 @@ package ccc2019;
 import java.util.Scanner;
 /**
  *
- * @author SPH_SHSM
+ * @author SPH_SHSMs
  */
 public class FixMe {
 	public static void main(String[] args) {
